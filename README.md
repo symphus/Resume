@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>Richard Lopez Ortiz</h1>
+  <h1>Richard Lopez Ortiz's Resume</h1>
   <p><strong>Phone:</strong> (480) 353-0371</p>
   <p><strong>Email:</strong> <a href="mailto:symphus23@gmail.com">symphus23@gmail.com</a></p>
   <p><strong>GitHub:</strong> <a href="https://github.com/symphus" target="_blank">github.com/symphus</a></p>
